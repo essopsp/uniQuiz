@@ -1,3 +1,3 @@
 # uniQuiz
 
-question's website project for university of tripoli 
+question websites project for university of tripoli 
